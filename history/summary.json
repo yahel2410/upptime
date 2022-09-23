@@ -1,5 +1,25 @@
 [
   {
+    "name": "AGS",
+    "url": "$AGS_URL",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "ags",
+    "status": "down",
+    "uptime": "88.39%",
+    "uptimeDay": "88.39%",
+    "uptimeWeek": "88.39%",
+    "uptimeMonth": "88.39%",
+    "uptimeYear": "88.39%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-09-23": 0
+    }
+  },
+  {
     "name": "Sport5",
     "url": "https://www.sport5.co.il",
     "icon": "https://favicons.githubusercontent.com/www.sport5.co.il",
@@ -10,47 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 457,
-    "timeDay": 457,
-    "timeWeek": 457,
-    "timeMonth": 457,
-    "timeYear": 457,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
-    "slug": "hacker-news",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 303,
-    "timeDay": 303,
-    "timeWeek": 303,
-    "timeMonth": 303,
-    "timeYear": 303,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Test Broken Site",
-    "url": "https://thissitedoesnotexist.koj.co",
-    "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.koj.co",
-    "slug": "test-broken-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 491,
+    "timeDay": 491,
+    "timeWeek": 491,
+    "timeMonth": 491,
+    "timeYear": 491,
     "dailyMinutesDown": {}
   }
 ]
