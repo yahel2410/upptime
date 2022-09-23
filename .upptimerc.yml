@@ -3,10 +3,8 @@ owner: yahel2410
 repo: upptime 
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: Sport5
+    url: https://www.sport5.co.il
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
