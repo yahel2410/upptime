@@ -9,6 +9,12 @@ sites:
   - name: Sport5
     url: https://www.sport5.co.il
     
+  - name: HA
+    url: $HA_URL
+    maxResponseTime: 8000
+    expectedStatusCodes:
+      - 200
+      
   - name: AGS
     url: $AGS_URL
     maxResponseTime: 8000
