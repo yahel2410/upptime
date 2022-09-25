@@ -2,16 +2,32 @@
 owner: yahel2410
 repo: upptime 
 
+assignees:
+  - yahel2410
+
 sites:
-  - name: AGS
-    url: $AGS_URL
   - name: Sport5
     url: https://www.sport5.co.il
+    
+  - name: AGS
+    url: $AGS_URL
+    maxResponseTime: 8000
+    expectedStatusCodes:
+      - 200
+      - 404
+  
+  - name: QWE
+    url: $QWE_URL
+    maxResponseTime: 8000
+    assignees:
+      - talqwe
+    expectedStatusCodes:
+      - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-#   cname: yahel2410.github.io
+  # cname: yahel2410.github.io
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
