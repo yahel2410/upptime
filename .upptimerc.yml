@@ -8,23 +8,21 @@ assignees:
 sites:
   - name: Sport5
     url: https://www.sport5.co.il
+    #maxResponseTime: 8000
     
   - name: HA
     url: $HA_URL
-    maxResponseTime: 8000
     expectedStatusCodes:
       - 200
       
   - name: AGS
     url: $AGS_URL
-    maxResponseTime: 8000
     expectedStatusCodes:
       - 200
       - 404
   
   - name: QWE
     url: $QWE_URL
-    maxResponseTime: 8000
     assignees:
       - talqwe
     expectedStatusCodes:
