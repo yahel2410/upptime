@@ -4,19 +4,19 @@
     "url": "https://www.sport5.co.il",
     "icon": "https://icons.duckduckgo.com/ip3/www.sport5.co.il.ico",
     "slug": "sport5",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 902,
-    "timeDay": 10579,
-    "timeWeek": 3113,
-    "timeMonth": 1434,
-    "timeYear": 902,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 910,
+    "timeDay": 7584,
+    "timeWeek": 2944,
+    "timeMonth": 1439,
+    "timeYear": 910,
     "dailyMinutesDown": {
-      "2022-12-11": 0
+      "2022-12-11": 13
     }
   },
   {
@@ -57,7 +57,7 @@
     "timeMonth": 1074,
     "timeYear": 1491,
     "dailyMinutesDown": {
-      "2022-12-11": 413,
+      "2022-12-11": 426,
       "2022-12-10": 1440,
       "2022-12-09": 1440,
       "2022-12-08": 1440,
