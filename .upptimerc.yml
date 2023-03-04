@@ -17,13 +17,14 @@ sites:
       
   - name: AGS
     url: $AGS_URL
+    maxResponseTime: 60000
     expectedStatusCodes:
       - 200
       - 404
   
-  - name: QWE
-    url: $QWE_URL
-    maxResponseTime: 60000
+# - name: QWE
+#    url: $QWE_URL
+#    maxResponseTime: 60000
 #     assignees:
 #       - talqwe
 
