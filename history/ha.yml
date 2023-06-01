@@ -1,7 +1,7 @@
 url: $HA_URL
 status: up
 code: 200
-responseTime: 780
-lastUpdated: 2023-05-31T23:00:30.333Z
+responseTime: 656
+lastUpdated: 2023-06-01T23:00:38.979Z
 startTime: Sun Sep 25 2022 22:13:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
