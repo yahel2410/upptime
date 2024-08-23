@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 889,
-    "timeDay": 1928,
-    "timeWeek": 1162,
-    "timeMonth": 933,
+    "time": 888,
+    "timeDay": 578,
+    "timeWeek": 1143,
+    "timeMonth": 925,
     "timeYear": 919,
     "dailyMinutesDown": {
       "2024-05-30": 18,
@@ -34,10 +34,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.59%",
     "uptimeYear": "99.52%",
-    "time": 832,
-    "timeDay": 1005,
-    "timeWeek": 804,
-    "timeMonth": 785,
+    "time": 831,
+    "timeDay": 764,
+    "timeWeek": 821,
+    "timeMonth": 787,
     "timeYear": 783,
     "dailyMinutesDown": {
       "2024-08-11": 47,
@@ -73,18 +73,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ags",
     "status": "down",
-    "uptime": "30.79%",
+    "uptime": "30.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "6.96%",
-    "time": 1802,
+    "time": 1763,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1695,
     "dailyMinutesDown": {
-      "2024-08-22": 59,
+      "2024-08-23": 58,
+      "2024-08-22": 1440,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
@@ -427,8 +428,7 @@
       "2023-08-28": 1440,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
-      "2023-08-25": 1440,
-      "2023-08-24": 1440
+      "2023-08-25": 1440
     }
   }
 ]
