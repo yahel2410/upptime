@@ -10,10 +10,10 @@
     "uptimeWeek": "99.34%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.96%",
-    "time": 1259,
-    "timeDay": 559,
-    "timeWeek": 574,
-    "timeMonth": 661,
+    "time": 1258,
+    "timeDay": 556,
+    "timeWeek": 524,
+    "timeMonth": 659,
     "timeYear": 1400,
     "dailyMinutesDown": {
       "2025-11-13": 67,
@@ -32,16 +32,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ha",
     "status": "up",
-    "uptime": "80.99%",
+    "uptime": "81.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "54.86%",
-    "time": 808,
-    "timeDay": 1057,
-    "timeWeek": 855,
-    "timeMonth": 797,
-    "timeYear": 823,
+    "uptimeYear": "55.13%",
+    "time": 809,
+    "timeDay": 1000,
+    "timeWeek": 873,
+    "timeMonth": 809,
+    "timeYear": 824,
     "dailyMinutesDown": {
       "2025-10-25": 79,
       "2025-09-20": 1136,
@@ -209,8 +209,7 @@
       "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
-      "2024-11-19": 1440,
-      "2024-11-18": 1440
+      "2024-11-19": 1440
     }
   },
   {
@@ -219,7 +218,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ags",
     "status": "down",
-    "uptime": "18.69%",
+    "uptime": "18.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -230,7 +229,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-17": 76,
+      "2025-11-18": 75,
+      "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
@@ -593,8 +593,7 @@
       "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
-      "2024-11-19": 1440,
-      "2024-11-18": 1440
+      "2024-11-19": 1440
     }
   }
 ]
