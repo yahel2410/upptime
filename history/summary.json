@@ -6,17 +6,16 @@
     "slug": "sport5",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1257,
-    "timeDay": 2720,
-    "timeWeek": 1085,
-    "timeMonth": 839,
-    "timeYear": 1410,
+    "time": 1263,
+    "timeDay": 2462,
+    "timeWeek": 1567,
+    "timeMonth": 967,
+    "timeYear": 1417,
     "dailyMinutesDown": {
-      "2026-01-08": 14,
       "2025-12-02": 32,
       "2025-12-01": 29,
       "2025-11-26": 49,
@@ -35,16 +34,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ha",
     "status": "up",
-    "uptime": "81.81%",
+    "uptime": "81.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
-    "uptimeYear": "69.19%",
-    "time": 820,
-    "timeDay": 709,
-    "timeWeek": 921,
-    "timeMonth": 851,
-    "timeYear": 826,
+    "uptimeYear": "69.35%",
+    "time": 821,
+    "timeDay": 1019,
+    "timeWeek": 917,
+    "timeMonth": 852,
+    "timeYear": 827,
     "dailyMinutesDown": {
       "2025-12-16": 52,
       "2025-12-13": 110,
@@ -163,8 +162,7 @@
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
-      "2025-01-10": 1440,
-      "2025-01-09": 1440
+      "2025-01-10": 1440
     }
   },
   {
@@ -173,7 +171,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ags",
     "status": "down",
-    "uptime": "17.88%",
+    "uptime": "17.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -184,7 +182,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-08": 703,
+      "2026-01-09": 82,
+      "2026-01-08": 1440,
       "2026-01-07": 1440,
       "2026-01-06": 1440,
       "2026-01-05": 1440,
@@ -547,8 +546,7 @@
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
-      "2025-01-10": 1440,
-      "2025-01-09": 1440
+      "2025-01-10": 1440
     }
   }
 ]
