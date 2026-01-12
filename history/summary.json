@@ -6,17 +6,16 @@
     "slug": "sport5",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 1265,
-    "timeDay": 659,
-    "timeWeek": 1610,
-    "timeMonth": 975,
-    "timeYear": 1417,
+    "timeDay": 706,
+    "timeWeek": 1638,
+    "timeMonth": 981,
+    "timeYear": 1413,
     "dailyMinutesDown": {
-      "2026-01-11": 10,
       "2025-12-02": 32,
       "2025-12-01": 29,
       "2025-11-26": 49,
@@ -35,15 +34,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ha",
     "status": "up",
-    "uptime": "81.86%",
+    "uptime": "81.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
-    "uptimeYear": "70.06%",
-    "time": 825,
-    "timeDay": 1096,
-    "timeWeek": 984,
-    "timeMonth": 875,
+    "uptimeYear": "70.17%",
+    "time": 826,
+    "timeDay": 882,
+    "timeWeek": 978,
+    "timeMonth": 873,
     "timeYear": 830,
     "dailyMinutesDown": {
       "2025-12-16": 52,
@@ -160,8 +159,7 @@
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
-      "2025-01-13": 1440,
-      "2025-01-12": 1440
+      "2025-01-13": 1440
     }
   },
   {
@@ -170,7 +168,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ags",
     "status": "down",
-    "uptime": "17.83%",
+    "uptime": "17.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -181,7 +179,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-11": 950,
+      "2026-01-12": 86,
+      "2026-01-11": 1440,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -544,8 +543,7 @@
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
-      "2025-01-13": 1440,
-      "2025-01-12": 1440
+      "2025-01-13": 1440
     }
   }
 ]
