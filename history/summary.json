@@ -29,7 +29,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ha",
     "status": "up",
-    "uptime": "78.46%",
+    "uptime": "78.47%",
     "uptimeDay": "76.59%",
     "uptimeWeek": "96.66%",
     "uptimeMonth": "91.50%",
@@ -177,7 +177,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-27": 281,
+      "2026-11-27": 388,
       "2026-11-26": 1440,
       "2026-11-25": 1440,
       "2026-11-24": 1440,
